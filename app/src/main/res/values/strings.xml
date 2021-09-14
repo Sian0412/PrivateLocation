@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">口袋名單</string>
+    <string name="add">新增</string>
+    <string name="save">儲存</string>
+    <string name="restName">至少需輸入名稱</string>
+    <string name="ok">確定</string>
+    <string name="notice">注意!!</string>
+    <string name="sure_Delete">"確定刪除這筆資料?"</string>
+    <string name="delete">刪除</string>
+    <string name="cancel">取消</string>
+    <string name="revise">修改</string>
+    <string name="phoneNumber">請先輸入電話號碼</string>
+    <string name="save_Revise">資料尚未儲存，請先儲存資料</string>
+    <string name="no_Save">資料尚未修改，是否要離開畫面?</string>
+    <string name="setting">設定</string>
+    <string name="no_Permission">已經禁用許可權，請手動授予</string>
+    <string name="address">請輸入地址</string>
+</resources>
