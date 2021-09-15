@@ -18,7 +18,6 @@ import android.view.MenuItem;
 import android.view.View;
 
 import android.widget.AdapterView;
-import android.widget.Button;
 import android.widget.CursorAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
@@ -145,7 +144,6 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onResume() {
-        Log.e("ss","111111111111");
         refreshListView();
         super.onResume();
     }
